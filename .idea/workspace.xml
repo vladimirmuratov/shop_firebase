@@ -14,18 +14,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="822a46ca-d702-487f-97e4-2292d9eb01f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/profile-page/profile-page.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/profile-page/profile-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card/card.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/card.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cart-item/cart-item.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/go-back-icon/go-back-icon.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/go-back-icon/go-back-icon.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/search/search.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search/search.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cart-page/cart-page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cart-page/cart-page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/cart-page/cart-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cart-page/cart-page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/main-page/main-page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main-page/main-page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/product-details-page/product-details-page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/product-details-page/product-details-page.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +38,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dash-board" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\DEV\VLADILEN_MININ\MyProjects\internet-shop_firebase\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\components" />
-      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\utils" />
-      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src" />
-      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0" />
-      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\toolkit" />
       <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\services\store" />
       <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\components\icons" />
       <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src" />
       <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV\VLADILEN_MININ\MyProjects\internet-shop_firebase\src\pages" />
+      <recent name="D:\DEV\VLADILEN_MININ\MyProjects\internet-shop_firebase" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\components" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\utils" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +107,7 @@
       <workItem from="1646994159355" duration="849000" />
       <workItem from="1648211150417" duration="13999000" />
       <workItem from="1648290123175" duration="27000" />
+      <workItem from="1649422139536" duration="1763000" />
     </task>
     <servers />
   </component>
@@ -147,10 +143,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="371" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672@0.0.1280.672" timestamp="1645802560062" />
-    <state x="421" y="78" key="FileChooserDialogImpl" timestamp="1648290148888">
+    <state x="421" y="78" key="FileChooserDialogImpl" timestamp="1649423373848">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="78" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1648290148888" />
+    <state x="421" y="78" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1649423373848" />
     <state width="1259" height="161" key="GridCell.Tab.0.bottom" timestamp="1645781924174">
       <screen x="0" y="0" width="1280" height="672" />
     </state>

@@ -27,7 +27,10 @@ export const Table: React.FC<TProps> = ({data, isLoading, message}): JSX.Element
     }, [message])
 
     const handleDelete = (id: string) => {
-        dispatch(removeFromTable(id))
+        const answer = window.confirm("Подтверждаете удаление?")
+        if (answer) {
+            dispatch(removeFromTable(id))
+        }
     }
 
     const handleEditClick = (id: string) => {
