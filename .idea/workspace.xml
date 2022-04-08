@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="822a46ca-d702-487f-97e4-2292d9eb01f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/card.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/card.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-item/cart-item.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icons/go-back-icon/go-back-icon.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/go-back-icon/go-back-icon.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search/search.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search/search.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cart-page/cart-page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cart-page/cart-page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cart-page/cart-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cart-page/cart-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/main-page/main-page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main-page/main-page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/product-details-page/product-details-page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/product-details-page/product-details-page.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22v38cHV5vgmDHtWiayKw7YHTsG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dash-board" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\components" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\utils" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\toolkit" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\services\store" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\components\icons" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src" />
+      <recent name="D:\dev\VLADILEN_MININ\MyProjects\internet-shop-2.0\src\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822a46ca-d702-487f-97e4-2292d9eb01f4" name="Default Changelist" comment="" />
+      <created>1640704074758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640704074758</updated>
+      <workItem from="1640704075775" duration="374000" />
+      <workItem from="1640704463326" duration="1005000" />
+      <workItem from="1640705482542" duration="11329000" />
+      <workItem from="1640774680235" duration="906000" />
+      <workItem from="1640775744817" duration="251000" />
+      <workItem from="1640776006381" duration="1113000" />
+      <workItem from="1640777134442" duration="2984000" />
+      <workItem from="1640780307043" duration="5274000" />
+      <workItem from="1640785752023" duration="5667000" />
+      <workItem from="1640961264980" duration="16271000" />
+      <workItem from="1641043059963" duration="1340000" />
+      <workItem from="1641044423557" duration="1006000" />
+      <workItem from="1641045445239" duration="530000" />
+      <workItem from="1641045986182" duration="1443000" />
+      <workItem from="1641047672996" duration="7933000" />
+      <workItem from="1641057311729" duration="3500000" />
+      <workItem from="1641060852791" duration="3606000" />
+      <workItem from="1641120125056" duration="11070000" />
+      <workItem from="1641214743095" duration="8915000" />
+      <workItem from="1644415271063" duration="13155000" />
+      <workItem from="1644489643959" duration="18448000" />
+      <workItem from="1644573659552" duration="19544000" />
+      <workItem from="1644652574665" duration="29376000" />
+      <workItem from="1644749437799" duration="16515000" />
+      <workItem from="1645359045798" duration="16652000" />
+      <workItem from="1645614876477" duration="746000" />
+      <workItem from="1645781530212" duration="97000" />
+      <workItem from="1645781868453" duration="120000" />
+      <workItem from="1645782002904" duration="20535000" />
+      <workItem from="1645804131389" duration="168000" />
+      <workItem from="1645804329824" duration="173000" />
+      <workItem from="1645879876586" duration="12250000" />
+      <workItem from="1645949062337" duration="28495000" />
+      <workItem from="1646554121102" duration="16073000" />
+      <workItem from="1646654870590" duration="3917000" />
+      <workItem from="1646735679714" duration="16020000" />
+      <workItem from="1646820288134" duration="8486000" />
+      <workItem from="1646994159355" duration="849000" />
+      <workItem from="1648211150417" duration="13999000" />
+      <workItem from="1648290123175" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645361246911">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1645361246911" />
+    <state x="399" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644417418245">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="399" y="139" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1644417418245" />
+    <state x="446" y="53" key="#com.intellij.ide.util.MemberChooser" timestamp="1644655953425">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="446" y="53" key="#com.intellij.ide.util.MemberChooser/0.0.1280.672@0.0.1280.672" timestamp="1644655953425" />
+    <state x="371" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645802560062">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="371" y="84" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.672@0.0.1280.672" timestamp="1645802560062" />
+    <state x="421" y="78" key="FileChooserDialogImpl" timestamp="1648290148888">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="78" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1648290148888" />
+    <state width="1259" height="161" key="GridCell.Tab.0.bottom" timestamp="1645781924174">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1645781924174" />
+    <state width="1259" height="161" key="GridCell.Tab.0.center" timestamp="1645781924173">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1645781924173" />
+    <state width="1259" height="161" key="GridCell.Tab.0.left" timestamp="1645781924173">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1645781924173" />
+    <state width="1259" height="161" key="GridCell.Tab.0.right" timestamp="1645781924173">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="161" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1645781924173" />
+    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup" timestamp="1648215629365">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="303" y="0" width="672" height="678" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1648215629365" />
+  </component>
+</project>
